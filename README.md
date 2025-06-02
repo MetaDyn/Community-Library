@@ -49,7 +49,7 @@ All content in this repository is distributed under the **[LICENSE.md](LICENSE.m
 
 The MetaDyn Community Library is just one part of our larger ecosystem. Connect with us, ask questions, share your projects, and collaborate with fellow Metaverse pioneers:
 
-* **💬 Discord (Our Central Hub!):** [[MetaDyn Discord Server](http://discord.gg/7WR3gywFpB)]
+* **💬 Discord (Our Central Hub!):** [[MetaDyn Discord Server](https://discord.gg/7WR3gywFpB)]
 * **🐦 X (Twitter):** [[MetaDyn X/Twitter Profile](https://x.com/MetaverseDyn)]
 * **▶️ YouTube:** [[MetaDyn YouTube Channel](https://www.youtube.com/@MetaverseDynamix)]
 * **🐙 MetaDyn Main GitHub:** [[Primary MetaDyn GitHub org](https://github.com/MetaDyn)]
