@@ -39,7 +39,7 @@ This Code of Conduct applies within all MetaDyn community spaces, including this
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the MetaDyn community leaders responsible for enforcement. For this repository, you can report issues by emailing conduct@metadyn.com or reaching out to a MetaDyn Manager on Discord.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the MetaDyn community leaders responsible for enforcement. For this repository, you can report issues by emailing us or reaching out to a MetaDyn Manager on Discord.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
