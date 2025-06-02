@@ -51,7 +51,7 @@ The MetaDyn Community Library is just one part of our larger ecosystem. Connect 
 
 * **💬 Discord (Our Central Hub!):** [[MetaDyn Discord Server](http://discord.gg/7WR3gywFpB)]
 * **🐦 X (Twitter):** [[MetaDyn X/Twitter Profile](https://x.com/MetaverseDyn)]
-* **▶️ YouTube:** [[Link to your MetaDyn YouTube Channel](https://www.youtube.com/@MetaverseDynamix)]
+* **▶️ YouTube:** [[MetaDyn YouTube Channel](https://www.youtube.com/@MetaverseDynamix)]
 * **🐙 MetaDyn Main GitHub:** [[Primary MetaDyn GitHub org](https://github.com/MetaDyn)]
 * **📸 Instagram:** [coming soon!]
 
