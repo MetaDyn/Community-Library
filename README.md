@@ -17,6 +17,7 @@ This library is organized to help you easily find resources for your preferred M
 
 We aim to cover a diverse range of Metaverse platforms, including but not limited to:
 
+* **Animations:** ([Go to Animations Resources](./Animations/))
 * **Unity:** ([Go to Unity Resources](./Unity/))
 * **Spatial.io:** ([Go to Spatial Resources](./Spatial/))
 * **Unreal Engine:** ([Go to Unreal Engine Resources](./UnrealEngine/))
