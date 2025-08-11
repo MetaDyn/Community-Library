@@ -7,6 +7,7 @@ This directory contains a collection of high-quality, platform-agnostic animatio
 ## 📂 Subdirectories
 
 * **Shooter Pack:** A set of animations tailored for first-person and third-person shooter games, including actions like firing, reloading, running, and more.
+* **Fighting:** A collection of combat animations, including punches, kicks, and other fighting moves.
 
 ## How to Use
 
